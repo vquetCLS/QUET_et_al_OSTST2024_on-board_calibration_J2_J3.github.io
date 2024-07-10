@@ -15,13 +15,13 @@ This drift affects the measurement of the $\sigma_{0}$ and geophysical parameter
 The impacts at the global scale of those drifts on $\sigma_{0}$, wind speed and sea level anomaly are illustrated in the following figures for both missions.
 
 Impact on the $\sigma_{0}$:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drif_coef_sig0_j3_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_sigma0_poster.png?raw=true)
 
 Impact on the Wind Speed:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drif_coef_sig0_j2_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_wind_speed_poster.png?raw=true)
 
 Impact on the Sea Level Anomaly:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/linear_coefficient_of_s0_correction_wrt_cagcode.jpg?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_sla_poster.jpg?raw=true)
 
 
 
