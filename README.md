@@ -6,7 +6,7 @@ This coefficient is affected with a drift, and this drift depends on the CAG COD
 
 ![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drif_coef_sig0_j3_poster.png?raw=true)
 
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drif_coef_sig0_j2_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_coef_sig0_j2_poster.png?raw=true)
 
 ![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/linear_coefficient_of_s0_correction_wrt_cagcode.jpg?raw=true)
 
