@@ -21,7 +21,7 @@ Impact on the Wind Speed:
 ![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_wind_speed_poster.png?raw=true)
 
 Impact on the Sea Level Anomaly:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_sla_poster.jpg?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_sla_poster.png?raw=true)
 
 
 
