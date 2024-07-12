@@ -21,7 +21,7 @@ Impact on the Wind Speed:
 ![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_windspeed_poster.png?raw=true)
 
 Impact on the Sea Level Anomaly:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_gmsl_poster.png?raw=true)
 
 
 
