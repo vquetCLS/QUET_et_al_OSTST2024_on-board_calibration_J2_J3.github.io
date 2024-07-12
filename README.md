@@ -28,13 +28,13 @@ Impact on the Sea Level Anomaly:
 The impacts at the regional scale of those drifts on $\sigma_{0}$, wind speed and sea level anomaly are illustrated in the following figures for both missions.
 
 Impact on the $\sigma_{0}$:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_reg_sigma0_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_reg_sig0_poster.png?raw=true)
 
 Impact on the Wind Speed:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_reg_wind_speed_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_reg_windspeed_poster.png?raw=true)
 
 Impact on the Sea Level Anomaly:
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/impact_reg_sla_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_reg_sla_poster.png?raw=true)
 
 
 
