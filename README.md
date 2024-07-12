@@ -37,7 +37,16 @@ Impact on the Sea Level Anomaly:
 ![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_reg_sla_poster.png?raw=true)
 
 
+Impact on meso scale performances (differences at monomission crossover points)
+On Jason-2:
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/meso_scale_j2_poster.png?raw=true)
 
+On Jason-3:
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/meso_scale_j3_poster.png?raw=true)
 
-Test d'une image dans un dossier
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/j3_gdrf/RegionalTrends_sig0_corr.png?raw=true)
+Imapct on the reference GMSL parameters' (trend and acceleration):
+Trend:
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/triangles_trend_poster.png?raw=true)
+
+Acceleration:
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/triangles_acceleration_poster.png?raw=true)
