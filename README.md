@@ -6,7 +6,7 @@ This coefficient is affected with a drift (measured with a serie of calibration 
 Each calibration campaign is realized with a normalized bias. There are no information regarding the possible temporal evolution of this bias.
 Temperature variations can also affect measures obtained during those calibration campaigns. This is a source of uncertainty regarding the drift coefficient computed for each CAG CODE.
 
-![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drif_coef_sig0_j3_poster.png?raw=true)
+![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_coef_sig0_j3_poster.png?raw=true)
 
 ![alt text](https://github.com/vquetCLS/QUET_et_al_OSTST2024_on-board_calibration_J2_J3.github.io/blob/main/drift_coef_sig0_j2_poster.png?raw=true)
 
